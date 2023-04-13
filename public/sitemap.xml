@@ -1,0 +1,20 @@
+<!-- public sitemap.xml -->
+<xml version="1.0" encoding="UTF-8">
+    <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+        <url>
+            <loc>http://localhost:3000</loc>
+        </url>
+        <url>
+            <loc>http://localhost:3000/CodeL</loc>
+        </url>
+        <url>
+            <loc>http://localhost:3000/SpaceSurvivor</loc>
+        </url>
+        <url>
+            <loc>http://localhost:3000/Caisse</loc>
+        </url>
+        <url>
+            <loc>http://localhost:3000/Contacts</loc>
+        </url>
+    </urlset>
+</xml>

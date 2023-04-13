@@ -1,0 +1,40 @@
+.menu {
+    background-color: black;
+    color: #e0e0e0;
+    position: fixed;
+    min-height: 56rem;
+    width: 15rem;
+    transition: width 0.4s;
+    position: fixed;
+    margin-top: -15rem;
+    max-width: 100%;
+}
+.ul{
+    list-style: none;
+    overflow: hidden;
+}
+.li {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 40px 0;
+    letter-spacing: 1.5px;
+    font-size: xx-large;
+    color: lightgray;
+}
+.li:hover {
+    
+    color: blue;
+}
+.icon {
+    width: 4rem;
+    height: auto;
+    position: fixed;
+    display: flex;
+}
+
+@media only screen and (max-width: 600px) {
+    .menu {
+        flex-direction: row;
+    }
+}

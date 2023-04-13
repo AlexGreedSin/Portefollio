@@ -1,0 +1,24 @@
+.paragraphe{
+    margin: 6rem;
+    color: rgba(255, 255, 255, 0.377);
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
+.paragraphe:hover{
+    color: white;
+}
+.titre{
+    margin: 3rem;
+    color: white;
+    text-align: center;
+    
+}
+.titre:hover{
+    color: rgba(21,96,189);
+}
+.image{
+    margin-left: 40rem;
+    width: 40rem;
+    height: auto;
+}
