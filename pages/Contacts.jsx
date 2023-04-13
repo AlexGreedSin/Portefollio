@@ -1,6 +1,6 @@
 import { useState } from "react"
 import Head from "next/head"
-import styles from '/styles/Contacts.module.css'
+import styles from 'Contacts.module.css'
 export default function SystemeContacts(){
 
     //creation de tout les const du form pour envoyer un email
