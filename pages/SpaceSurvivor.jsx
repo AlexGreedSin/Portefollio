@@ -1,7 +1,7 @@
 import Image from 'next/image'
-import styles from 'jeux.module.css'
+import styles from 'styles/Jeux.module.css'
 import SpaceSurvivor1 from 'SoloGame1.png'
-import SpaceSurvivor2 from 'img/SoloGame2.png'
+import SpaceSurvivor2 from 'SoloGame2.png'
 import Head from "next/head"
 export default function SpaceSurvivor(){
     return <>
