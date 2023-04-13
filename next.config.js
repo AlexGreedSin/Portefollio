@@ -7,7 +7,7 @@ module.exports = nextConfig
 
 module.exports = {
   webpack: (config) => {
-    config.resolve.alias['@'] = '/opt/render/project/src';
+    config.resolve.alias['@'] = '/opt/build/repo/pages';
     return config;
   },
 };
