@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import styles from 'styles/Jeux.module.css'
-import CodeL1 from '../../public/img/CodeL1.png'
-import CodeL2 from '../../public/img/CodeL2.png'
-import CodeL3 from '../../public/img/CodeL3.png'
+import CodeL1 from '~/public/img/CodeL1.png'
+import CodeL2 from '~/public/img/CodeL2.png'
+import CodeL3 from '~/public/img/CodeL3.png'
 import Head from "next/head"
 export default function CodeL(){
     return <>
