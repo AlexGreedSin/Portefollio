@@ -1,4 +1,4 @@
-import styles from '/styles/Accueil.module.css'
+import styles from 'Accueil.module.css'
 import Head from "next/head"
 export default function Accueil(){
     return <>
