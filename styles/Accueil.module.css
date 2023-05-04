@@ -1,0 +1,23 @@
+.sousTitre{
+    margin: 5rem;
+    color: rgba(255, 255, 255, 0.377);
+    text-align: center;
+    
+    font-size: 1.2rem;
+    font-weight: bolder;
+
+}
+.sousTitre:hover{
+    color: white;
+}
+.titre{
+    margin: 5rem;
+    color: rgba(255, 255, 255, 0.377);
+    text-align: center;
+    
+    font-weight: bolder;
+    font-size: 3rem;
+}
+.titre:hover{
+    color: white;
+}

@@ -1,0 +1,13 @@
+html {
+  box-sizing: border-box;
+  background-color: rgb(32,28,28);
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
