@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import styles from 'styles/Jeux.module.css'
-import SystemeCaisse1 from 'SystemeCaisse.png'
-import SystemeCaisse2 from 'SystemeCaisse2.png'
+import SystemeCaisse1 from 'public/img/SystemeCaisse.png'
+import SystemeCaisse2 from 'public/img/SystemeCaisse2.png'
 import Head from "next/head"
 export default function SystemeCaisse(){
     return <>
